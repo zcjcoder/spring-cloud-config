@@ -1,8 +1,8 @@
 config:
     info:
-       555
+       666
        #黑名单
 black-list:
   #在10秒钟内连续请求超过10次，
-  limit-times: 30
-  request-second: 30
+  limit-times: 40
+  request-second: 40
